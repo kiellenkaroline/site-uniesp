@@ -20,7 +20,7 @@
 ## Requisições HTTP com Axios
 
 ## Linguagem e tecnologia utilizada:
-[![habilidades](https://skillicons.dev/icons?i=react,axios,vscode,git,github)](skillicons.dev)
+[![habilidades](https://skillicons.dev/icons?i=react,js,axios,vscode,git,github)](skillicons.dev)
 
 ## screen print
 
